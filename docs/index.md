@@ -19,7 +19,7 @@ Description
 </th></tr></thead>
 <tbody><tr><td>
 
-[@yext/search-ui-react-test](./search-ui-react-test.md)
+[anguyen-search-ui-react-test](./anguyen-search-ui-react-test.md)
 
 
 </td><td>

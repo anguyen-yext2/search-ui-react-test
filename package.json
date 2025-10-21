@@ -1,5 +1,5 @@
 {
-  "name": "@yext/search-ui-react-test",
+  "name": "anguyen-search-ui-react-test",
   "version": "1.0.0",
   "description": "A library of React Components for powering Yext Search integrations",
   "author": "watson@yext.com",
